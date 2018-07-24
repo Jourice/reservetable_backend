@@ -1,0 +1,7 @@
+server:
+    port: #server.port#
+    error:
+        whitelabel:
+            enabled: false
+        include-stacktrace: always
+        include-exception: true
